@@ -182,4 +182,5 @@ dockerhub_username: ваш_логин_на_докерхабе
 
 ## Автор
 Трубников Александр  
-petrovskii1980@mail.ru
+email: petrovskii1980@mail.ru  
+Telegram: https://t.me/sanfootball
